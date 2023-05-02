@@ -1,1 +1,1 @@
-const availableImg = ["alimboyong_2018_classification","alimboyong_2019_an","Beck2016Visual","colmer_2020_seedgerm","du_2022_classification"];
+const availableImg = ["alimboyong_2018_classification","alimboyong_2019_an","Beck2016Visual","colmer_2020_seedgerm","du_2022_classification","elmasry_2019_recent","javanmardi_2021_computervision","medeiros_2020_machine","medeiros_2020_quality","mohammedzakiahmed_2018_xray","mohammedzakiahmed_2020_classification"];
